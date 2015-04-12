@@ -70,6 +70,53 @@ body h2{
 
 #musica{
 	clear: left;
+	
+}
+
+#musica h2{
+	margin-left: 12px;
+}
+#musica p{
+	margin-left: 12px;
+}
+
+#musica p + p{
+	margin-left: 42px;
+}
+
+#musica p + p + p{
+	margin-left: 12px;
+}
+
+#musica p+ p + p + p{
+	margin-left: 42px;
+}
+
+#musica p+ p + p + p + p {
+	margin-left: 12px;
+}
+
+#musica p+ p + p + p + p +p{
+	margin-left: 42px;
+}
+
+#musica p+ p + p + p + p +p +p{
+	margin-left: 12px;
+}
+
+#musica p+ p + p + p + p +p +p +p{
+	margin-left: 42px;
+}
+
+#musica p+ p + p + p + p +p +p +p +p{
+	margin-left: 12px;
+}
+
+#musica p+ p + p + p + p +p +p +p +p +p{
+	margin-left: 42px;
+}
+
+#musica p+ p + p + p + p +p +p +p +p +p +p{
 	margin-left: 12px;
 }
 
